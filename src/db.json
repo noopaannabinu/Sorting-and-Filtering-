@@ -1,0 +1,165 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "+1234567890",
+        "address": "123 Maple Street, Springfield, IL 62701",
+        "status": "active"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "+0987654321",
+        "address": "456 Oak Avenue, Springfield, IL 62702",
+        "status": "inactive"
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "phone": "+1122334455",
+        "address": "789 Pine Road, Springfield, IL 62703",
+        "status": "active"
+      },
+      {
+        "id": 4,
+        "name": "Bob Brown",
+        "email": "bob.brown@example.com",
+        "phone": "+5566778899",
+        "address": "321 Birch Lane, Springfield, IL 62704",
+        "status": "inactive"
+      },
+      {
+        "id": 5,
+        "name": "Charlie Davis",
+        "email": "charlie.davis@example.com",
+        "phone": "+6677889900",
+        "address": "654 Cedar Street, Springfield, IL 62705",
+        "status": "active"
+      },
+      {
+        "id": 6,
+        "name": "Dana White",
+        "email": "dana.white@example.com",
+        "phone": "+7766554433",
+        "address": "987 Spruce Avenue, Springfield, IL 62706",
+        "status": "inactive"
+      },
+      {
+        "id": 7,
+        "name": "Eve Martinez",
+        "email": "eve.martinez@example.com",
+        "phone": "+8899001122",
+        "address": "123 Elm Drive, Springfield, IL 62707",
+        "status": "active"
+      },
+      {
+        "id": 8,
+        "name": "Frank Wilson",
+        "email": "frank.wilson@example.com",
+        "phone": "+9988776655",
+        "address": "456 Walnut Boulevard, Springfield, IL 62708",
+        "status": "inactive"
+      },
+      {
+        "id": 9,
+        "name": "Grace Lee",
+        "email": "grace.lee@example.com",
+        "phone": "+2233445566",
+        "address": "789 Chestnut Place, Springfield, IL 62709",
+        "status": "active"
+      },
+      {
+        "id": 10,
+        "name": "Henry Clark",
+        "email": "henry.clark@example.com",
+        "phone": "+3344556677",
+        "address": "321 Palm Court, Springfield, IL 62710",
+        "status": "inactive"
+      },
+      {
+        "id": 11,
+        "name": "Isabella Walker",
+        "email": "isabella.walker@example.com",
+        "phone": "+4455667788",
+        "address": "654 Fir Drive, Springfield, IL 62711",
+        "status": "active"
+      },
+      {
+        "id": 12,
+        "name": "Jack Robinson",
+        "email": "jack.robinson@example.com",
+        "phone": "+5566778899",
+        "address": "987 Cypress Street, Springfield, IL 62712",
+        "status": "inactive"
+      },
+      {
+        "id": 13,
+        "name": "Karen Lewis",
+        "email": "karen.lewis@example.com",
+        "phone": "+6677889900",
+        "address": "123 Willow Lane, Springfield, IL 62713",
+        "status": "active"
+      },
+      {
+        "id": 14,
+        "name": "Liam Young",
+        "email": "liam.young@example.com",
+        "phone": "+7788990011",
+        "address": "456 Redwood Road, Springfield, IL 62714",
+        "status": "inactive"
+      },
+      {
+        "id": 15,
+        "name": "Mia King",
+        "email": "mia.king@example.com",
+        "phone": "+8899001122",
+        "address": "789 Sequoia Boulevard, Springfield, IL 62715",
+        "status": "active"
+      },
+      {
+        "id": 16,
+        "name": "Nathan Wright",
+        "email": "nathan.wright@example.com",
+        "phone": "+9900112233",
+        "address": "321 Maple Circle, Springfield, IL 62716",
+        "status": "inactive"
+      },
+      {
+        "id": 17,
+        "name": "Olivia Lopez",
+        "email": "olivia.lopez@example.com",
+        "phone": "+1122334455",
+        "address": "654 Poplar Street, Springfield, IL 62717",
+        "status": "active"
+      },
+      {
+        "id": 18,
+        "name": "Paul Harris",
+        "email": "paul.harris@example.com",
+        "phone": "+2233445566",
+        "address": "987 Alder Lane, Springfield, IL 62718",
+        "status": "inactive"
+      },
+      {
+        "id": 19,
+        "name": "Quinn Hall",
+        "email": "quinn.hall@example.com",
+        "phone": "+3344556677",
+        "address": "123 Ash Road, Springfield, IL 62719",
+        "status": "active"
+      },
+      {
+        "id": 20,
+        "name": "Rachel Allen",
+        "email": "rachel.allen@example.com",
+        "phone": "+4455667788",
+        "address": "456 Hickory Avenue, Springfield, IL 62720",
+        "status": "inactive"
+      }
+    ]
+  }
+  
